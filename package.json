@@ -7,7 +7,7 @@
     "marked": "^4.3.0",
     "sass": "^1.93.2"
   },
-  "scripts":{
+  "scripts": {
     "start": "node index.js build",
     "build": "grunt",
     "dev": "grunt watch"
@@ -22,5 +22,18 @@
     "grunt-contrib-sass": "^2.0.0",
     "grunt-contrib-uglify": "^5.2.2",
     "grunt-contrib-watch": "^1.1.0"
-  }
+  },
+  "description": "This is my week 6 capstone project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PamHornedo/Blog_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PamHornedo/Blog_Generator/issues"
+  },
+  "homepage": "https://github.com/PamHornedo/Blog_Generator#readme"
 }
