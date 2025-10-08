@@ -1,0 +1,15 @@
+$main-color: #93b0ac;
+$accent-color: #c3dcd8;
+
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: $main-color;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: $accent-color;
+  margin-bottom: 0.5em;
+}

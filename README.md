@@ -1,2 +1,9 @@
-# Blog_Generator
-This is my week 6 capstone project
+# Blog Generator - Week 6 Capstone Project
+
+### This is a static site generator that is built by taking Markdown files and turning them into HTML pages. These pages are them provided consistent themes and functionality using advanced CSS and JavaScript code.
+
+### Technologies used in this project are:
+
+- Node.js
+- Grunt
+- SASS
