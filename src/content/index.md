@@ -1,4 +1,4 @@
-# Lorem ipsum dolor sit amet
+## Lorem ipsum dolor sit amet
 
 ### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et massa eget dolor iaculis consectetur.
 
