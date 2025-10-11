@@ -1,15 +1,28 @@
-$main-color: #93b0ac;
-$accent-color: #c3dcd8;
+$background-color: #4c516d;
+$text-color: #fbfcf8;
+$subtitle-text-color: #979aaa;
+$header-font-size: 32px;
+$subtitle-font-size: 18px;
+$body-font-size: 20px;
+$font-style: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
-body {
-  font-family: 'Segoe UI', Arial, sans-serif;
-  background: $main-color;
-  color: #000000;
-  margin: 0;
-  padding: 0;
+* {
+  font-family: $font-style;
+  background: $background-color;
 }
 
 h1 {
-  color: $accent-color;
-  margin-bottom: 0.5em;
+  font-size: $header-font-size;
+  color: $text-color;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: $subtitle-font-size;
+  color: $subtitle-text-color;
+}
+
+p {
+  font-size: $body-font-size;
+  color: $text-color;
 }

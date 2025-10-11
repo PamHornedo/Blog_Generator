@@ -1,9 +1,9 @@
-# Blog Generator - Week 6 Capstone Project
+# Lorem ipsum dolor sit amet
 
-### This is a static site generator that is built by taking Markdown files and turning them into HTML pages. These pages are them provided consistent themes and functionality using advanced CSS and JavaScript code.
+### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et massa eget dolor iaculis consectetur.
 
-### Technologies used in this project are:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et massa eget dolor iaculis consectetur. Cras fringilla finibus dui, at fermentum tortor maximus a. Nulla facilisi. Nullam justo odio, egestas ac metus at, ullamcorper dignissim nulla. Nulla a velit auctor mauris faucibus semper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis suscipit neque, ut commodo eros. Nunc vitae orci pulvinar, tristique enim nec, commodo lectus. Etiam nec est eu neque sodales porta quis quis diam. Donec aliquam velit vitae urna venenatis, in posuere ex accumsan. Nulla feugiat lorem quis sodales feugiat. Sed et enim sed ante mollis faucibus sed at nibh.
 
-- Node.js
-- Grunt
-- SASS
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et massa eget dolor iaculis consectetur. Cras fringilla finibus dui, at fermentum tortor maximus a. Nulla facilisi. Nullam justo odio, egestas ac metus at, ullamcorper dignissim nulla. Nulla a velit auctor mauris faucibus semper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis suscipit neque, ut commodo eros. Nunc vitae orci pulvinar, tristique enim nec, commodo lectus. Etiam nec est eu neque sodales porta quis quis diam. Donec aliquam velit vitae urna venenatis, in posuere ex accumsan. Nulla feugiat lorem quis sodales feugiat. Sed et enim sed ante mollis faucibus sed at nibh.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et massa eget dolor iaculis consectetur. Cras fringilla finibus dui, at fermentum tortor maximus a. Nulla facilisi. Nullam justo odio, egestas ac metus at, ullamcorper dignissim nulla. Nulla a velit auctor mauris faucibus semper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis suscipit neque, ut commodo eros. Nunc vitae orci pulvinar, tristique enim nec, commodo lectus. Etiam nec est eu neque sodales porta quis quis diam. Donec aliquam velit vitae urna venenatis, in posuere ex accumsan. Nulla feugiat lorem quis sodales feugiat. Sed et enim sed ante mollis faucibus sed at nibh.
