@@ -1,4 +1,5 @@
 $background-color: #4c516d;
+$accent-color: #838996;
 $text-color: #fbfcf8;
 $subtitle-text-color: #979aaa;
 $header-font-size: 32px;
@@ -12,10 +13,19 @@ $font-style: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   margin: 0px;
   padding: 0px;
 }
+#header-left {
+  background-color: $accent-color;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 104px;
+}
 
 header {
-  background-color: white;
+  background-color: $accent-color;
   display: flex;
+  justify-content: space-between;
+  align-items: center;
   height: 104px;
   align-items: center;
 }
@@ -24,25 +34,52 @@ img {
   height: 107px;
 }
 
+main {
+  margin: 5rem;
+  padding: 30px;
+  border: solid 5px $accent-color;
+  border-radius: 20px;
+  align-content: center;
+}
+
+#buttons {
+  background-color: $accent-color;
+  padding-right: 50px;
+}
+
+#Subscribe, #About {
+  padding: 8px;
+  margin: 3px;
+  color: black;
+  background-color: white;
+  border: solid 5px white;
+  border-radius: 10px;
+  font-size: $body-font-size;
+}
+
 h1 {
   font-size: $header-font-size;
   color: black;
   font-weight: bold;
-  background-color: white;
+  background-color: $accent-color;
+  padding-left: 20px;
 }
 
 h2 {
   font-size: $header-font-size;
   color: $text-color;
   font-weight: bold;
+  padding-left: 15px;
 }
 
 h3 {
   font-size: $subtitle-font-size;
   color: $subtitle-text-color;
+  padding: 5px 15px 15px 15px;
 }
 
 p {
   font-size: $body-font-size;
   color: $text-color;
+  padding: 15px;
 }
